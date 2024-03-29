@@ -1,0 +1,19 @@
+{
+  "name": "fungame-cli-num-guessing-game",
+  "version": "1.0.1",
+  "description": "This is CLI bases number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
